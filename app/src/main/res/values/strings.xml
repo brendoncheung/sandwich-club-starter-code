@@ -12,6 +12,8 @@
 
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
+    <string name="empty_asKnownAs">No alternative names</string>
+    <string name="empty_ingredients">No alternative ingredients</string>
 
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
